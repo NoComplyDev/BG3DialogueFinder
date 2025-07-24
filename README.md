@@ -1,5 +1,13 @@
 # NoComply BG3 Dialogue Finder &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://buymeacoffee.com/nocomply"><img src="https://github.com/user-attachments/assets/e6b8903e-75a3-4bae-a8bb-3ed593ae2133" alt="Buy me a coffee." width="162.6px" height="35.1px"></a>
 
+##Permissions Update
+
+Due to certain people acting like children, you may now only fork/reuse this (in any way) under the following conditions:
+
+1. If you update ANY version of this tool, INCLUDING versions already forked/updated by different users, with the intention of people using it other than just yourself, your update MUST be made publicly accessible on Nexus Mods once it is in a functional state.
+2. It MUST remain open source.
+3. Give proper credit. I don't want an essay, just link to the original tool.
+
 
 ## Overview
  - Search Baldur’s Gate 3’s audio files by dialogue, character and filename. Database contains all .wem files stored in english.pak and SharedSounds.pak.
